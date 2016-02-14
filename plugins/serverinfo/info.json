@@ -1,0 +1,16 @@
+{
+    "gsm.plugins.serverinfo": {
+        "compatibility": {
+            "dependencies": {"gsm.daemon": "1.1.0"},
+            "games": {"bf4": "0", "bfh": "0", "cod2": "1", "cod4": "1", "cod5": "1", "cod6": "1"}
+        },
+        "information": {
+            "author": "Mirko911",
+            "date": "13.02.2015",
+            "description": "Offers the ability to write infos about other servers in the chat",
+            "name": "Serverinfo",
+            "version": "1.1.0",
+            "website": "www.gsmanager.de"
+        }
+    }
+}
